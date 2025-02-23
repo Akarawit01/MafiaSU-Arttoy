@@ -6,7 +6,7 @@
 ### install docker desktop
 
 ``` bash
-$ git clone https://github.com/thanachotelu/MafiaSU_arttoy.git
+$ git clone https://github.com/Akarawit01/MafiaSU_arttoy.git
 
 # import package
 $ go get "github.com/gin-contrib/cors"
